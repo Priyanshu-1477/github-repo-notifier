@@ -1,0 +1,10 @@
+# 🔐 Secrets
+.env
+
+# 📂 Local files
+repos.json
+log.txt
+
+# __pycache__ folders and .pyc files (optional cleanup)
+__pycache__/
+*.pyc
