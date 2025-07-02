@@ -126,7 +126,7 @@ repos.json
   Check `log.txt` for any errors. Make sure the `.env` file is present and formatted correctly.
 
 - **Still not working?**  
-  Try running the script manually and observing any errors in terminal output.
+  Try running the script manually and paste any errors from terminal output in the issues section of this repo explaining the problem faced and the command you typed.
 
 ---
 
